@@ -299,3 +299,6 @@ https://atemeshield1-voe.sysln.id/live/eds/EURONEWS/mpd/EURONEWS.mpd
 
 #EXTINF:-1 tvg-id="RTNews.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/600px-Russia-today-logo.svg.png" group-title="Indonesia",Rusia Today
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://ia802305.us.archive.org/16/items/red-bull-tv-logo_202107/RedBullTV-logo.jpg", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
