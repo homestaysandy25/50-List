@@ -314,3 +314,6 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://ia802305.us.archive.org/16/items/red-bull-tv-logo_202107/RedBullTV-logo.jpg", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.ultimatestrongman.tv/wp-content/uploads/2016/09/logo.png",STRONGMAN
+https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
