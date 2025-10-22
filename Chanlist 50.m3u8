@@ -4,19 +4,19 @@
 #EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be56c7d858fd/e1c8e9c35f844b84bffed06395734acc.png" group-title="Indonesia",BTV (RW)
 http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843h.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="Indonesia", RCTI
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png", RCTI
 #https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png" group-title="Indonesia", INEWS
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png",INEWS
 #https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png" group-title="Indonesia", MNCTV
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png",MNCTV
 #https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="Indonesia", GTV
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png",GTV
 #https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png", INDOSIAR 
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png",INDOSIAR 
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/sctv.png" group-title="Indonesia",SCTV 
