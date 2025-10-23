@@ -340,4 +340,10 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="FOX News - [Channel 335].id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="Indonesia",FOX News
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/FoxNews/sa_dash/FoxNews.mpd
 
+#EXTINF:-1 tvg-name="" tvg-id="FOX News - [Channel 335].id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA",FOX News 2 ON(R)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6b63be641d34965833cb959113d612e:68dc81f8440af4ea3a162f9e3778d089
+https://atemeshield1-voe.sysln.id/live/eds/FOXNewsHD/mpd/FOXNewsHD.mpd
+
 #EXTM3U billed-msg="Selamat Bersantai | Sandy's Homestay"
