@@ -335,13 +335,7 @@ https://atemeshield1-voe.sysln.id/live/eds/EURONEWS/mpd/EURONEWS.mpd
 #EXTINF:-1 tvg-id="RTNews.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/600px-Russia-today-logo.svg.png" group-title="Indonesia",Rusia Today
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="FOX News - [Channel 335].id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="Indonesia",FOX News
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6b63be641d34965833cb959113d612e:68dc81f8440af4ea3a162f9e3778d089
-https://atemeshield1-voe.sysln.id/live/eds/FOXNewsHD/mpd/FOXNewsHD.mpd
-
-#EXTINF:-1 tvg-name="" tvg-id="FOX News - [Channel 335].id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="Indonesia",FOX News
+#EXTINF:-1 tvg-name="" tvg-id="FOX News - [Channel 335].id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://oversight.house.gov/wp-content/uploads/2022/08/Fox-News-Channel-Emblem-2.png" group-title="Indonesia",FOX News
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6b63be641d34965833cb959113d612e:68dc81f8440af4ea3a162f9e3778d089
