@@ -212,7 +212,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/in
 #KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 
-#EXTINF:-1 tvg-id="17" tvg-logo="https://www.asiasat.com/channelguide/images/SUPPERRIX%20(with%20slogan)%20color.png" group-title="Indonesia",SUPERRIX
+#EXTINF:-1 tvg-id="17" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1zNXcICFhP0xAYHkzGVAfGJbl76bZBfyNtA&s" group-title="Indonesia",SUPERRIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -354,14 +354,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/d6/d9/6c/d6d96c1445f6f5ddfbebe4472196930d.jpg" group-title="Indonesia",DISCOVERY CHANNEL 
+#EXTINF:-1 tvg-id="NationalGeographicIndonesia.id" tvg-name="" tvg-chno="" group-title="Indonesia" tvg-logo="https://i.imgur.com/Mt6pNjj.png" , NAT GEO
+https://stream1.freetv.fun/c63737a7732017a1a512dc57892ed3bb00a10cb8c668a190f9bc4df004b40ad8.ctv
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/d6/d9/6c/d6d96c1445f6f5ddfbebe4472196930d.jpg" group-title="Indonesia",DISCOVERY  
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
 #https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
-
-#EXTINF:-1 tvg-id="NationalGeographicIndonesia.id" tvg-name="" tvg-chno="" group-title="Indonesia" tvg-logo="https://i.imgur.com/Mt6pNjj.png" , NAT GEO
-https://stream1.freetv.fun/c63737a7732017a1a512dc57892ed3bb00a10cb8c668a190f9bc4df004b40ad8.ctv
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/01/HGTV-Emblem.png" group-title="Indonesia",HGTV 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
