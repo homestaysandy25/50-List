@@ -354,7 +354,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.frocus.net/images/logotv/original/new_discovery_Channel.gif" group-title="Indonesia",DISCOVERY CHANNEL 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/d6/d9/6c/d6d96c1445f6f5ddfbebe4472196930d.jpg" group-title="Indonesia",DISCOVERY CHANNEL 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
