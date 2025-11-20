@@ -360,7 +360,7 @@ https://stream1.freetv.fun/c63737a7732017a1a512dc57892ed3bb00a10cb8c668a190f9bc4
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
-#EXTINF:-1 tvg-id="DiscoveryChannel.id" tvg-name="Discovery Channel HD" tvg-logo="https://mimipipi22.github.io/logo/knowledge/discovery.jpg" group-title="Indonesia",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="DiscoveryChannel.id" tvg-name="Discovery Channel HD" tvg-logo="https://i.ytimg.com/vi/uW2k6C_sfJo/maxresdefault.jpg" group-title="Indonesia",DISCOVERY CHANNEL
 https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mediampd/DiscoveryHD.mpd
 http://202.169.224.202:8800/udp/239.9.1.6:1234
 https://mimipipi22.github.io/logo/offline.m3u8
