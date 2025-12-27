@@ -1,5 +1,23 @@
 #EXTM3U
 z
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://iili.io/FtSr5Mb.jpg", 19:30 WIB Nottingham Forest vs Manchester City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://iili.io/FtSr5Mb.jpg", 22:00 WIB Arsenal vs Brighton & Hove Albion
+https://drive.google.com/uc?export=download&id=117qXM3z-86sXISJbsHlZjiw137nd4qhB&usp
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://iili.io/FtSr5Mb.jpg", 22:00 WIB Liverpool vs Wolverhampton Wanderers
+https://drive.google.com/uc?export=download&id=117qXM3z-86sXISJbsHlZjiw137nd4qhB&usp
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://iili.io/FtSr5Mb.jpg", 00:30 WIB Chelsea vs Aston Villa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be56c7d858fd/e1c8e9c35f844b84bffed06395734acc.png" group-title="Indonesia",BTV
 http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843h.m3u8
