@@ -1,41 +1,5 @@
 #EXTM3U
 z
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://iili.io/FtSr5Mb.jpg", 22:00 WIB Arsenal vs Brighton & Hove Albion
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-http://205.237.106.36/hls/VAVAVAQ.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://iili.io/FtSr5Mb.jpg", 22:00 WIB Liverpool vs Wolverhampton Wanderers
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-http://205.237.106.36/hls/VAVAVA.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://iili.io/FtSr5Mb.jpg", 22:00 WIB Brentford vs AFC Bournemouth
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-http://205.237.105.202/hls/RIIIIQQ.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://iili.io/FtSr5Mb.jpg", 22:00 WIB West Ham United vs Fulham
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-http://205.237.104.56/hls/RIIIIQQQ.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://iili.io/FtSr5Mb.jpg", 22:00 WIB Burnley vs Everton
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-http://205.237.106.134/hls/RIIIIQQQQ.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://iili.io/FtSr5Mb.jpg", 00:30 WIB Chelsea vs Aston Villa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be56c7d858fd/e1c8e9c35f844b84bffed06395734acc.png" group-title="Indonesia",BTV
 http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843h.m3u8
