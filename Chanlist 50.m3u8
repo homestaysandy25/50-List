@@ -79,8 +79,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/transtv.png" group-title="Indonesia",TRANS TV 
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="" group-title="Indonesia", TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="" group-title="Indonesia",TRANS 7
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
@@ -307,28 +311,29 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.ultimatestrongman.tv/wp-content/uploads/2016/09/logo.png",STRONGMAN
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
 
-#EXTINF:-1 tvg-id="--" group-title="Indonesia" tvg-logo="https://i.imgur.com/Gy9f6XN.png", CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
+#EXTINF:-1 tvg-id="Horee.id" tvg-name="Horee" tvg-logo="" group-title="Indonesia",HOREE
+https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
 
 #EXTINF: -1 tvg-id="dreamworks.macan" tvg-logo="https://i.imgur.com/CFrIGsl.png" group-title="Indonesia", DREAMWORKS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="Indonesia", ANIMAL PLANET
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Indonesia",ANIMAL PLANET
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"k+SzQxHk96mVDxhIWV9Wiw","kid":"DgvwlWWPp8zkDExnE2ueIw"}],"type":"temporary"}
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ewj95eclhn/out/v1/b394624dc26a4628a6c78317f09ff4e9/cenc.mpd
 
-#EXTINF: -1 tvg-id="discovery asia" tvg-logo="https://i.imgur.com/HuVWUvJ.png" group-title="Indonesia", DISCOVERY ASIA
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
+#EXTINF:-1 tvg-id="Discovery.Asia.id" tvg-name="Discovery Asia.id" tvg-logo="" group-title="Indonesia",DISCOVERY ASIA
+https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
