@@ -5,6 +5,7 @@
 http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843h.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",LOKAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://store8.gofile.io/download/web/778df3be-b051-46cd-b88e-cc63ff18ef14/lokal.mp4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
