@@ -1,6 +1,6 @@
 #EXTM3U
-z
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+
 #EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" tvg-logo="https://alturl.link/fSylI" group-title="Indonesia",BTV
 http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843h.m3u8
 
