@@ -1,3 +1,16 @@
+<!--DOCTYPE html-->
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>SANDY'S TV</title>
+<script language="javascript">
+  window.location = "https://vivamax.tv";
+</script>
+<!-- Bawaan Gambar : 
+#https://i.ibb.co.com/SwmbJTpj/Kode1742398286647-min.jpg -->
+</head>
+
 #EXTM3U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 
