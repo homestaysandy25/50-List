@@ -344,7 +344,7 @@ https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="Horee.id" tvg-name="Horee" tvg-logo="https://www.dropbox.com/scl/fi/q9n8qlekrxwya0mbfygel/HOREEOK.png?rlkey=qujay6xzemppor7n3w6m4gwb2&st=vz1n9376&raw=1" group-title="Indonesia",HOREE
 https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/csjiyqtosguvq5lkjftgh/DREAMWORKSOK.png?rlkey=ksfc8kj4s964upuqy2lpkherp&st=8dq0rx5x&raw=1" group-title="KIDS",DREAMWORKS
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/csjiyqtosguvq5lkjftgh/DREAMWORKSOK.png?rlkey=ksfc8kj4s964upuqy2lpkherp&st=8dq0rx5x&raw=1" group-title="Indonesia",DREAMWORKS
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
