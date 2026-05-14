@@ -365,21 +365,22 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mediampd/DreamWorksH
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"k+SzQxHk96mVDxhIWV9Wiw","kid":"DgvwlWWPp8zkDExnE2ueIw"}],"type":"temporary"}
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ewj95eclhn/out/v1/b394624dc26a4628a6c78317f09ff4e9/cenc.mpd
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="discoveryasia" group-title="Indonesia" tvg-logo="https://www.dropbox.com/scl/fi/d9lnvkpoandv9bu9p4utv/DISCOVERY-ASIAOK.png?rlkey=uubfwm2zf89mh9jph9tszvrda&st=o2t7e17z&raw=1",DISCOVERY ASIA 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
-#EXTINF:-1 tvg-id="Discovery.Asia.id" tvg-name="Discovery Asia.id" tvg-logo="https://www.dropbox.com/scl/fi/d9lnvkpoandv9bu9p4utv/DISCOVERY-ASIAOK.png?rlkey=uubfwm2zf89mh9jph9tszvrda&st=o2t7e17z&raw=1" group-title="Indonesia",DISCOVERY ASIA
-https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=934907b134be3963a6263a453846924c:788e2835fb98568aed2f47bbdc091515
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.dropbox.com/scl/fi/8rsa3lgx7bgde14hifiei/DISCOVERY-CHANELOK.png?rlkey=ax1kgbw91ms7ml22a329mu3z4&st=djr8ffjs&raw=1",DISCOVERY CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-chno="39" tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel" tvg-logo="https://www.dropbox.com/scl/fi/8rsa3lgx7bgde14hifiei/DISCOVERY-CHANELOK.png?rlkey=ax1kgbw91ms7ml22a329mu3z4&st=djr8ffjs&raw=1" group-title="Indonesia",DISCOVERY CHANNEL
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+
+#EXTINF:-1 tvg-id="hgtv-hd" tvg-logo="https://www.dropbox.com/scl/fi/l5fsc3b6zx8cdiy9a9amg/HGTVOK.png?rlkey=3rmzv1q59ljx6x1vqha6eyzwa&st=8j4wo2kc&raw=1" group-title="Indonesia",HGTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4271dec5b6794650872dc915fe10fdeb:0e64ddadd1cbd079f98c597fc01c06bf
-https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/l5fsc3b6zx8cdiy9a9amg/HGTVOK.png?rlkey=3rmzv1q59ljx6x1vqha6eyzwa&st=8j4wo2kc&raw=1" group-title="Indonesia",HGTV 
-http://202.169.224.202:8800/udp/239.9.1.3:1234
+#KODIPROP:inputstream.adaptive.license_key=f1e8c2d97a3b4f5d8c669d1a2b7e4c30:03aaa7dcf893e6b934aeb3c46f9df5b9
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hgtv_hd1/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/pweg8cjrjicclmae0ppwg/AFNOK.png?rlkey=21ylcl2hekm0o8j5dtpdo6cfw&st=pt9z51j8&raw=1" group-title="Indonesia",ASIAN FOOD NETWORK
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
