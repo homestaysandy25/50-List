@@ -50,8 +50,12 @@ http://103.148.44.38:8000/play/a05c/index.m3u8
 http://202.169.224.202:8800/udp/239.9.1.25:1234
 http://202.169.224.202:8800/udp/239.4.4.2:1234
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://www.dropbox.com/scl/fi/rugjddwqzoytkp1g843i5/SCTVOK.png?rlkey=luhn8lz297tgu4r2hxyv31ttt&st=ieuktleb&raw=1" group-title="Indonesia", SCTV
-http://opplextv.cyou:8080/nasir6160/nasir/351030
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/rugjddwqzoytkp1g843i5/SCTVOK.png?rlkey=luhn8lz297tgu4r2hxyv31ttt&st=ieuktleb&raw=1" group-title="Indonesia",SCTV
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://alturl.link/zFvji", ANTV 
 #http://op-group1-swiftservehd-1.dens.tv/s/s07/02.m3u8
@@ -102,13 +106,10 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/atsdhghf25iih4d5tld4v/TVRIOK.png?rlkey=1v8cb63p1lr9ajv39kicvkvrw&st=51ba89vx&raw=1" group-title="Indonesia",TVRI
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-id="17" tvg-logo="https://www.dropbox.com/scl/fi/atsdhghf25iih4d5tld4v/TVRIOK.png?rlkey=1v8cb63p1lr9ajv39kicvkvrw&st=51ba89vx&raw=1" group-title="Indonesia", TVRI
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://iptv.kilas7.com:80/kaukia/asdfrewq/8
 
 #EXTINF:-1 tvg-id="20" tvg-logo="https://www.dropbox.com/scl/fi/1tou6ew9g4m9bumcgea5t/CNNOK.png?rlkey=b5s0hf65wuxrr3fgpubusmenh&st=uqf8q5x9&raw=1" group-title="Indonesia",CNN INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
