@@ -76,9 +76,6 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/in
 #KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ce95wg7qlnq5mnbw8odgn/MOJIOK.png?rlkey=1x5dqjc29vs4hzoq69d24bteu&st=pa3utmou&raw=1" group-title="Indonesia", MOJI 
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-
 #EXTINF:-1 tvg-id="22" tvg-logo="https://www.dropbox.com/scl/fi/jq64xhlgllifxltd5der7/RTVOK.png?rlkey=4v9m0xbma08cthyrqn8eke4h3&st=4wc7ibb7&raw=1" group-title="Indonesia", RTV
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
@@ -305,13 +302,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1  tvg-logo="https://www.dropbox.com/scl/fi/1cpu7ov7q5bzg32r8w1u1/HITSNOWOK.png?rlkey=2krmyg2pr0h69j1pc00bzks9x&st=i3pn0v2g&raw=1" group-title="Indonesia",HITS NOW
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
-
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://www.dropbox.com/scl/fi/z2cjm70ok5e76jzmod849/TVRISPORTOK.png?rlkey=ddyq1380xhnljeao0lsprikig&st=8si840pv&raw=1" group-title="Indonesia", TVRI SPORT
-#https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-http://103.148.44.38:8000/play/a05u/index.m3u8
-https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/h7k8t7slnxrkcrav9zfxa/SPOTVOK.png?rlkey=anfn29l1ldtjfmd7o1sgy6i3g&st=q2msbf86&raw=1" group-title="Indonesia",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
