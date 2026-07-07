@@ -109,9 +109,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="17" tvg-logo="https://www.dropbox.com/scl/fi/atsdhghf25iih4d5tld4v/TVRIOK.png?rlkey=1v8cb63p1lr9ajv39kicvkvrw&st=51ba89vx&raw=1" group-title="Indonesia", TVRI
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://iptv.kilas7.com:80/kaukia/asdfrewq/8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://nextgenz.my.id/event/pidio/play.m3u8?id=6441&type=hls
 
 #EXTINF:-1 tvg-id="20" tvg-logo="https://www.dropbox.com/scl/fi/1tou6ew9g4m9bumcgea5t/CNNOK.png?rlkey=b5s0hf65wuxrr3fgpubusmenh&st=uqf8q5x9&raw=1" group-title="Indonesia",CNN INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
