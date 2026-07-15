@@ -33,9 +33,11 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/ind
 #EXTINF:-1 tvg-id="GTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.dropbox.com/scl/fi/mib3dhb3uf6giigqx646r/GTVOK.png?rlkey=2a9j4gbl1kb4hgedxd2mm48qa&st=0a0j79sd&raw=1" group-title="Indonesia",GTV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.dropbox.com/scl/fi/jsq70mo0mrexuj4s24c4x/GARUDATVOK.png?rlkey=10kw31kqmmrt5hle924na5xt6&st=s4ii9vm7&raw=1" group-title="Indonesia",GARUDA TV
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/jsq70mo0mrexuj4s24c4x/GARUDATVOK.png?rlkey=10kw31kqmmrt5hle924na5xt6&st=s4ii9vm7&raw=1" group-title="Indonesia", GARUDA TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
