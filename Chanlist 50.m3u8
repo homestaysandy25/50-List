@@ -39,11 +39,14 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.dropbox.com/scl/fi/jnw285vdftto2r92zr9bz/ANTVOK.png?rlkey=rejk74hn5901c9ee7cz13a7j3&st=nynn7rja&raw=1", ANTV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+#EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.dropbox.com/scl/fi/jnw285vdftto2r92zr9bz/ANTVOK.png?rlkey=rejk74hn5901c9ee7cz13a7j3&st=nynn7rja&raw=1" group-title="Indonesia",ANTV
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/p3ndd28vxcw4z3objyy9c/INDOSIAROK.png?rlkey=dykq5xjo35sdotxszr24lvzse&st=2gj9juhq&raw=1" group-title="Indonesia",INDOSIAR
@@ -184,11 +187,11 @@ https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3277707030000000.mpd
 https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
+#EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="https://www.dropbox.com/scl/fi/h0w358wj8szyqy68zzmsg/STUDIOUNIVESOK.png?rlkey=y9rtl06a45apw0zgbgy8k9qwg&st=vp543c19&raw=1" group-title="Indonesia", STUDIO UNIVERSAL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/h0w358wj8szyqy68zzmsg/STUDIOUNIVESOK.png?rlkey=y9rtl06a45apw0zgbgy8k9qwg&st=vp543c19&raw=1" group-title="Indonesia" tvg-id="" , STUDIO UNIVERSAL
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/boa2uv1apdmgwnq44ao5y/GALAXYOK.png?rlkey=0eludzqnb6inyx1m8ed6hbhl1&st=2934dflp&raw=1" group-title="Indonesia",GALAXY
