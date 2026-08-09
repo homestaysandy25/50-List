@@ -249,12 +249,13 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/4h9zc0jpt83afmilsgbzh/TVNMOVOK.png?rlkey=7qfrfd2btft0k29ju3xysn1od&st=y2aof405&raw=1" group-title="Indonesia",TVN MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/4h9zc0jpt83afmilsgbzh/TVNMOVOK.png?rlkey=7qfrfd2btft0k29ju3xysn1od&st=y2aof405&raw=1" group-title="Indonesia",TVN MOVIES
-https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://202.150.161.212:5000/live/channel30/playlist.m3u8
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
 #EXTINF:-1 tvg-id="101.astro" tvg-name="K PLUS FHD" tvg-logo="https://www.dropbox.com/scl/fi/ych5yuqx9bkipbtbd70ze/K.png?rlkey=83oowkx20y5v6a56tflvetpuq&st=zl5a29zm&dl=1"
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ych5yuqx9bkipbtbd70ze/K.png?rlkey=83oowkx20y5v6a56tflvetpuq&st=zl5a29zm&dl=1" group-title="Indonesia", K-PLUS
@@ -325,40 +326,15 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Soccer.Channel.id" tvg-name="Soccer Channel" tvg-logo="https://www.dropbox.com/scl/fi/ue439fihz74nsed2dcdgy/SOCCERCHNOK.png?rlkey=gllqe41y98rsnsj4a2xm6m85l&st=8cc5s1d5&raw=1" group-title="Indonesia",SOCCER CHANEL
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.dropbox.com/scl/fi/ydi6kp8t0v6xsi66n683n/SPORSSTARSOK.png?rlkey=s2uscmt106lnybhqaxoq317go&st=z2nwi6gk&raw=1",SPORTSTARS 1 
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTINF:-1 tvg-id="MNCSports2.id" group-title="Indonesia" tvg-logo="https://www.dropbox.com/scl/fi/ker82ldygeuszkchrxqpv/SPORSSTARSOK2.png?rlkey=xgqkr8irsdcd5k4i98rex3q3a&st=40b7jyo4&raw=1",SPORTSTARS 2
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/q0alm8s6hxvmqgtxqyqrd/SPORSSTARSOK3.png?rlkey=ldworgd80zmxtd8zg36lioa0s&st=8zrn7fj9&raw=1" group-title="Indonesia", SPORTSTARS 3
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 #EXTINF:-1 tvg-id="MNCSports4.id"  tvg-url="https://www.dropbox.com/scl/fi/i6vq8k7fvviyr9wyacskj/SPORSSTARSOK4.png?rlkey=dpyb4rjga4tox72m20jer7kgm&st=1nzo7tgm&raw=1" group-title="Indonesia",SPORTSTARS 4
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.dropbox.com/scl/fi/xlypgento0zdaiy21z5pq/REDBULLOK.png?rlkey=57wgy2mul3ktshmgnf3h4kra7&st=upx0x6fo&raw=1", RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -394,7 +370,6 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/disco/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/l5fsc3b6zx8cdiy9a9amg/HGTVOK.png?rlkey=3rmzv1q59ljx6x1vqha6eyzwa&st=8j4wo2kc&raw=1" group-title="Indonesia", HGTV 
-http://202.169.224.202:8800/udp/239.9.1.3:1234
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/pr8o6g2k4qwiyjbvxi90v/FOODNETWORKOK.png?rlkey=1e2ofdck0g74wepdbwc2s8wsq&st=8a3zw24d&raw=1" group-title="Indonesia",FOOD NETWORK
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
