@@ -34,11 +34,12 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/jnw285vdftto2r92zr9bz/ANTVOK.png?rlkey=rejk74hn5901c9ee7cz13a7j3&st=nynn7rja&raw=1" group-title="Indonesia", ANTV
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://tvratu.my.id/vid/index.m3u8?id=782&type=hls
+#EXTINF:0 tvg-logo="https://www.dropbox.com/scl/fi/jnw285vdftto2r92zr9bz/ANTVOK.png?rlkey=rejk74hn5901c9ee7cz13a7j3&st=nynn7rja&raw=1" group-title="Indonesia",ANTV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
+https://beetv.my.id/stream/vd.m3u8?ch=antv
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/p3ndd28vxcw4z3objyy9c/INDOSIAROK.png?rlkey=dykq5xjo35sdotxszr24lvzse&st=2gj9juhq&raw=1" group-title="Indonesia",INDOSIAR
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/indosiarTV.m3u8
