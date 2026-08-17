@@ -42,7 +42,12 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/p3ndd28vxcw4z3objyy9c/INDOSIAROK.png?rlkey=dykq5xjo35sdotxszr24lvzse&st=2gj9juhq&raw=1" group-title="Indonesia",INDOSIAR
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/indosiarTV.m3u8
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
+#https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
+https://beetv.my.id/stream/vd.m3u8?ch=indosiar
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/rugjddwqzoytkp1g843i5/SCTVOK.png?rlkey=luhn8lz297tgu4r2hxyv31ttt&st=ieuktleb&raw=1" group-title="Indonesia",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
