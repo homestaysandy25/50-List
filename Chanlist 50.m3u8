@@ -70,7 +70,7 @@ https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://www.dropbox.com/scl/fi/ekpd4hyfa5kmv9nkunalv/TRANSTVOK.png?rlkey=vwmbbglja12k9iyx7bs0rcbt5&st=6ggvtqwf&raw=1" group-title="Indonesia",TRANS TV
-http://hometv.biz.id:80/play/YyDkttET9zL0baLDk2sSgA
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Trtv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://www.dropbox.com/scl/fi/z0dtkcv9m5qkln9v69zk8/TRANS7OK.png?rlkey=7xwlea325pe6uvu9o59sseqsh&st=x8adav9x&raw=1" group-title="Indonesia",TRANS 7
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -126,8 +126,14 @@ http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07
 http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07:43
 ##https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://www.dropbox.com/scl/fi/x2i255ea6xqx1hdgt98ou/CINEMAXOK.png?rlkey=zei6v00sesdg2x1e4umf48wte&st=90h3avxt&raw=1" group-title="Indonesia",CINEMAX
-http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVajAIdxW7mA1ZjsC-tcLg0w
+https://filexott.uk:8443/live/ahsan627/62627288292/302227.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://www.dropbox.com/scl/fi/h0w358wj8szyqy68zzmsg/STUDIOUNIVESOK.png?rlkey=y9rtl06a45apw0zgbgy8k9qwg&st=vp543c19&raw=1" group-title="Indonesia",STUDIO UNIVERSAL
 http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVbqwpXhsj9Sk0Pwsq2sljBE
