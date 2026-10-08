@@ -96,7 +96,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist_w1188349826_b384000_s
 https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-id="JTV" tvg-url="" tvg-logo="https://www.dropbox.com/scl/fi/0o8suzmwsxbtgymwpymfc/JTVOK.png?rlkey=7ivdj3soqice1ydw42jqvqg2g&st=ancvmkuv&raw=1",JTV
-http://hometv.biz.id:80/play/uoPxludeAtqwiLXGpXnLTg
+
 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -104,7 +104,7 @@ http://hometv.biz.id:80/play/uoPxludeAtqwiLXGpXnLTg
 https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8?app_type=web&userid=lite&chname=Nusantara_TV_NTV-
 
 #EXTINF:-1 group-title="Indonesia" tvg-id="Bali TV" tvg-url="" tvg-logo="https://www.dropbox.com/scl/fi/em4f2foeurmw0hm7kf1gz/BALITVOK.png?rlkey=yrkyb3uagh9thmn8wixupsfcp&st=o2ei1t4n&raw=1",BALI TV
-http://hometv.biz.id:80/play/AUAoZDrV9fwDKtHFM59pYw
+
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://www.dropbox.com/scl/fi/q7pxoatxp31evvt0aunj7/HBOOK.png?rlkey=xgetp492q0hv38172gslpf2zv&st=yh0b4l4d&raw=1" group-title="Indonesia",HBO
@@ -136,34 +136,60 @@ http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07
 https://filexott.uk:8443/live/ahsan627/62627288292/302227.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://www.dropbox.com/scl/fi/h0w358wj8szyqy68zzmsg/STUDIOUNIVESOK.png?rlkey=y9rtl06a45apw0zgbgy8k9qwg&st=vp543c19&raw=1" group-title="Indonesia",STUDIO UNIVERSAL
-http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVbqwpXhsj9Sk0Pwsq2sljBE
+
 
 #EXTINF:-1 tvg-id="" tvg-name="GALAXY" tvg-logo="https://www.dropbox.com/scl/fi/boa2uv1apdmgwnq44ao5y/GALAXYOK.png?rlkey=0eludzqnb6inyx1m8ed6hbhl1&st=2934dflp&raw=1" group-title="Indonesia",GALAXY
-http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVfFw1WUoHkTCOsgyNH4o4Ag
+http://hometv.biz.id:80/play/#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=049
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="GALAXY PREMIUM" tvg-logo="https://www.dropbox.com/scl/fi/t991c6jbmcw5ya74pa9ip/GALAXYPREMOK.png?rlkey=xen79towr3cazdok0twh2r3xg&st=c287ag1h&raw=1" group-title="Indonesia",GALAXY PREMIUM
-http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVaeNHBysrfFQpHBzyFlelYQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=048
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://www.dropbox.com/scl/fi/knvibpytcmx6b3ge2p169/AXNOK.png?rlkey=t36jy1wan5hc0gdjlethxqyu7&st=buj0vqtb&raw=1" group-title="Indonesia",AXN
-http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVYw8Kcd7BFzw1KuGE8qASZw
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+http://filexott.uk:8080/live/ahsan627/62627288292/302208.ts
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/v3jlw4hi0di441c9bo3d0/ROCKACTOK.png?rlkey=8u6zmtnqz62s7f5ck4d3lh5iu&st=3it08doj&raw=1" group-title="Indonesia", ROCK ACTION
-http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVULyDRvreaXr2jNcvUgvAZ8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=093
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/gbtlkybseuorhobzaqa5s/ROCKENTOK.png?rlkey=794o4twjbi00pz19xdz7f6qya&st=bytqhi3m&raw=1" group-title="Indonesia", ROCK ENTERTAINMENT
-http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVZ78Yz2DgpKwlj7xuwS4yHg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=092
+https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.dropbox.com/scl/fi/dor5axqn6rrgdb5pgqic5/MN.png?rlkey=o0t6f5pknmr1lgthkopeq5ccr&st=yfs54uqv&raw=1",MN+
-http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVV1TijtEQHXEYxTEn4Q6E5U
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
 #EXTINF:-1 xui-id="22773" tvg-id="" tvg-name="MNX" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kF0BtWKgUtdaDaP-XbowN5w.png" group-title="Indonesia",MNX
-http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVZRWdC1vsvjsne8ccZ1-yYI
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
+KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.dropbox.com/scl/fi/7wx1zss5j4lw6g2nob72m/MOVIES-NOW.png?rlkey=weobqqeydcxnu7fa117oyztdo&st=znyhnc6b&raw=1",MOVIES NOW
-http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVeWTbDJ_0jdT6X5JfpZOV94
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 #EXTINF:-1 xui-id="24749" tvg-id="" tvg-name="SHOWCHASE (EN-NO SUB)" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7I0mbUyVQ6HL_EV4NbYM8bdUewUYhwmVxsyPtaFvWtgE.png" group-title="Indonesia",SHOWCHASE
-http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVVlscBRZxJNAbhfcXo7xMhg
+
 
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/wplbd70bbrppv7gozziy8/ORIGINALSOK.png?rlkey=u298gaygks1rgne895x3ls8tc&st=wouhwywf&raw=1" group-title="Indonesia",ORIGINALS
@@ -178,55 +204,110 @@ http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVVlscBRZxJNAbhfcXo7xMhg
 
 #EXTINF:0 tvg-logo="https://www.dropbox.com/scl/fi/a5nfs179fporjkfrp5kmt/BUDDY-STAROK.png?rlkey=rbcvb1o1d6rvei0xjpalxfp8a&st=x47f6rdr&raw=1" group-title="Indonesia",BUDDY STAR
 
-#EXTINF:-1 xui-id="54" tvg-id="" tvg-name="THRILL" tvg-logo="https://www.dropbox.com/scl/fi/prp0r88qiq7oood3otnbx/THRILLOK.png?rlkey=fibvedfp57y5275uoo143aoe4&st=3phof1ox&raw=1" group-title="Indonesia",THRILL
-http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVax6vgEhUG0q9zXWK1-2rrU
+#EXTINF:-1 tvg-id="" tvg-name="THRILL" tvg-logo="https://www.dropbox.com/scl/fi/prp0r88qiq7oood3otnbx/THRILLOK.png?rlkey=fibvedfp57y5275uoo143aoe4&st=3phof1ox&raw=1" group-title="Indonesia",THRILL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c/dash/VGhyaWxs/manifest.mpd?signature=YWRhZTIwNGRjOTk4Y2YxM2U4NWZhMTY1OWZhMTNhYTc=&time=15260624476&device_id=z302F1-AqKkuRWWN98M2kwjMuDQJwpKypRTWn3Bqbe6w
 
-#EXTINF:-1 xui-id="55" tvg-id="" tvg-name="TvN MOVIES" tvg-logo="https://www.dropbox.com/scl/fi/4h9zc0jpt83afmilsgbzh/TVNMOVOK.png?rlkey=7qfrfd2btft0k29ju3xysn1od&st=y2aof405&raw=1" group-title="Indonesia",TvN MOVIES
-http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVRy9S8yKUS3EaXxoTk5-wWE
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="TvN MOVIES" tvg-logo="https://www.dropbox.com/scl/fi/4h9zc0jpt83afmilsgbzh/TVNMOVOK.png?rlkey=7qfrfd2btft0k29ju3xysn1od&st=y2aof405&raw=1" group-title="Indonesia",TvN MOVIES
+http://202.150.161.212:5000/live/channel30/playlist.m3u8
 
 #EXTINF:-1 xui-id="91" tvg-id="" tvg-name="K PLUS" tvg-logo="https://www.dropbox.com/scl/fi/ych5yuqx9bkipbtbd70ze/K.png?rlkey=83oowkx20y5v6a56tflvetpuq&st=zl5a29zm&dl=1" group-title="Indonesia",K PLUS
-http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVcf6eVKk3HwvvxxPNpFbZNI
+
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/0530anldf3fyoljs0py8q/KIX.png?rlkey=9frffda6vriyjesbl7lxfprve&st=ehqu2bcj&dl=1" group-title="Indonesia", KIX 
-http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVeh6qtDZ0kTkvxzUUs6e-sM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=075
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/pv9s9yh7rcm6vaou5k741/CMOK.png?rlkey=6y1us1yc27neeyzzitb8gtvi3&st=bh0qer73&raw=1" group-title="Indonesia",CELESTIAL MOVIES
-http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVVffvZUKYuU2l8sNOoQU914
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=044
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 
 #EXTINF:-1 xui-id="24290" tvg-id="" tvg-name="HITS NOW" tvg-logo="https://www.dropbox.com/scl/fi/1cpu7ov7q5bzg32r8w1u1/HITSNOWOK.png?rlkey=2krmyg2pr0h69j1pc00bzks9x&st=i3pn0v2g&raw=1" group-title="Indonesia",HITS NOW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=068
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/73b9fdd0cd0e4570b482c92fa43ecda9/index.mpd
 
 #EXTINF:-1 xui-id="10767" tvg-id="" tvg-name="SPO TV 1 ID" tvg-logo="https://www.dropbox.com/scl/fi/h7k8t7slnxrkcrav9zfxa/SPOTVOK.png?rlkey=anfn29l1ldtjfmd7o1sgy6i3g&st=q2msbf86&raw=1" group-title="Indonesia",SPO TV 1
-http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVVTWdqo8QDuNwOhhhjGn0As
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
 #EXTINF:-1 xui-id="324" tvg-id="" tvg-name="SPO TV 2 ID" tvg-logo="https://www.dropbox.com/scl/fi/m61vo2rczrbmtac1vozl5/spotv2ok.png?rlkey=9n1e4wzrrdvra601hemyswam2&st=3p5vczzk&raw=1" group-title="Indonesia",SPO TV 2
-http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVU_k4ViPpvK45V3xdS9QzsI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=120
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://www.dropbox.com/scl/fi/jowkshvnebubfkmqvbc5o/FIGHTSPORTOK.png?rlkey=1kgw637tucs8dm4q4x141jbdr&st=rmde23tb&raw=1" group-title="Indonesia",FIGHT SPORTS
-http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVWfKHWTvXzRCQaUbryYqO1c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=121
+https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
 
 #EXTINF:-1 xui-id="10246" tvg-id="" tvg-name="UK | EUROSPORTS 1" tvg-logo="https://www.dropbox.com/scl/fi/y5uuiu9uc4dgmvsfdfz99/EUROSPORT1OK.png?rlkey=pzc113kx6sy6jm8sg8q6ujia9&st=3jvov4nb&raw=1" group-title="Indonesia",EUROSPORTS 1
-http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVe2ZCWGRvpcn5QvDDweFlhU
+
 
 #EXTINF:-1 xui-id="10247" tvg-id="" tvg-name="UK | EUROSPORTS 2" tvg-logo="https://www.dropbox.com/scl/fi/4k3tejoo7kezaam2zncs1/EUROSPORT2OK.png?rlkey=9voe3ege1aoztsvbjbo8d5rt6&st=scktn9sk&raw=1" group-title="Indonesia",EUROSPORTS 2
-http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVc1jjM4fDUPen6UcuWXoKV4
+
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.dropbox.com/scl/fi/ue439fihz74nsed2dcdgy/SOCCERCHNOK.png?rlkey=gllqe41y98rsnsj4a2xm6m85l&st=8cc5s1d5&raw=1",SOCCER CHANEL
-http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVXLSR0HuTFKjeUeIAkTZab8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=115
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.dropbox.com/scl/fi/ydi6kp8t0v6xsi66n683n/SPORSSTARSOK.png?rlkey=s2uscmt106lnybhqaxoq317go&st=z2nwi6gk&raw=1",SPORTSTARS 1 
-http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVcOr2nGu6LbZjqjKbLBnjpU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=112
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.dropbox.com/scl/fi/ker82ldygeuszkchrxqpv/SPORSSTARSOK2.png?rlkey=xgqkr8irsdcd5k4i98rex3q3a&st=40b7jyo4&raw=1",SPORTSTARS 2
-http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVciL8UZUgEWD1MeSmjMRWR0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=113
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.dropbox.com/scl/fi/q0alm8s6hxvmqgtxqyqrd/SPORSSTARSOK3.png?rlkey=ldworgd80zmxtd8zg36lioa0s&st=8zrn7fj9&raw=1",SPORTSTARS 3
-http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVU1xoHtmc9B632gaTMb8n6g
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=114
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1 tvg-id="MNCSports4.id"  tvg-url="https://www.dropbox.com/scl/fi/i6vq8k7fvviyr9wyacskj/SPORSSTARSOK4.png?rlkey=dpyb4rjga4tox72m20jer7kgm&st=1nzo7tgm&raw=1" group-title="Indonesia",SPORTSTARS 4
-http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVSu82Qb9_eIptc9UObzKfhg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=205
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.dropbox.com/scl/fi/xlypgento0zdaiy21z5pq/REDBULLOK.png?rlkey=57wgy2mul3ktshmgnf3h4kra7&st=upx0x6fo&raw=1", RED BULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.dropbox.com/scl/fi/w6m6w3n46tdowsbfofovu/STRONGMANOK.png?rlkey=c2jr13dy4dl6h9474t5s520zd&st=9ztqm2nq&raw=1",STRONGMAN
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
