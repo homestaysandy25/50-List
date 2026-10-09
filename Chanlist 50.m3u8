@@ -186,7 +186,7 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ts173" group-title="Indonesia" tvg-logo="https://www.dropbox.com/scl/fi/7wx1zss5j4lw6g2nob72m/MOVIES-NOW.png?rlkey=weobqqeydcxnu7fa117oyztdo&st=znyhnc6b&raw=1",MOVIES NOW
+#EXTINF:-1 tvg-id="ts173" tvg-logo="https://www.dropbox.com/scl/fi/7wx1zss5j4lw6g2nob72m/MOVIES-NOW.png?rlkey=weobqqeydcxnu7fa117oyztdo&st=znyhnc6b&raw=1" group-title="Indonesia, MOVIES NOW
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 #EXTINF:-1 xui-id="24749" tvg-id="" tvg-name="SHOWCHASE (EN-NO SUB)" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7I0mbUyVQ6HL_EV4NbYM8bdUewUYhwmVxsyPtaFvWtgE.png" group-title="Indonesia",SHOWCHASE
