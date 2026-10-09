@@ -140,6 +140,7 @@ https://filexott.uk:8443/live/ahsan627/62627288292/302227.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="GALAXY" tvg-logo="https://www.dropbox.com/scl/fi/boa2uv1apdmgwnq44ao5y/GALAXYOK.png?rlkey=0eludzqnb6inyx1m8ed6hbhl1&st=2934dflp&raw=1" group-title="Indonesia",GALAXY
 http://hometv.biz.id:80/play/#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=049
@@ -183,9 +184,9 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #EXTINF:-1 xui-id="22773" tvg-id="" tvg-name="MNX" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kF0BtWKgUtdaDaP-XbowN5w.png" group-title="Indonesia",MNX
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
-KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.dropbox.com/scl/fi/7wx1zss5j4lw6g2nob72m/MOVIES-NOW.png?rlkey=weobqqeydcxnu7fa117oyztdo&st=znyhnc6b&raw=1",MOVIES NOW
+#EXTINF:-1 tvg-id="ts173" group-title="Indonesia" tvg-logo="https://www.dropbox.com/scl/fi/7wx1zss5j4lw6g2nob72m/MOVIES-NOW.png?rlkey=weobqqeydcxnu7fa117oyztdo&st=znyhnc6b&raw=1",MOVIES NOW
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 #EXTINF:-1 xui-id="24749" tvg-id="" tvg-name="SHOWCHASE (EN-NO SUB)" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7I0mbUyVQ6HL_EV4NbYM8bdUewUYhwmVxsyPtaFvWtgE.png" group-title="Indonesia",SHOWCHASE
