@@ -340,18 +340,15 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ewj95eclhn/
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 
 #EXTINF:-1 xui-id="74" tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://www.dropbox.com/scl/fi/8rsa3lgx7bgde14hifiei/DISCOVERY-CHANELOK.png?rlkey=ax1kgbw91ms7ml22a329mu3z4&st=djr8ffjs&raw=1" group-title="Indonesia",DISCOVERY CHANNEL
-#EXTVLCOPT:http-referrer=https://bhoomtv.me/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b70a8cf9450c4d6484b4ac4d3c6761c0:0908be844260409cbac180bf0181da40
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/main.mpd
+http://212.5.144.156:8080/discovery/index.m3u8
 
 #EXTINF:-1 xui-id="128" tvg-id="" tvg-name="HGTV" tvg-logo="hthttps://www.dropbox.com/scl/fi/l5fsc3b6zx8cdiy9a9amg/HGTVOK.png?rlkey=3rmzv1q59ljx6x1vqha6eyzwa&st=8j4wo2kc&raw=1" group-title="Indonesia",HGTV
 http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15972.ts
 
 #EXTINF:-1 tvg-name=" tvg-logo="https://www.dropbox.com/scl/fi/u1rz9g3eulblr0r9yqc46/THIS-OLD-HOUSE.png?rlkey=sr2oawfyx1of4qts76441nklx&st=xn44q7qx&raw=1" group-logo="" group-title="Indonesia", THIS OLD HOUSE
 
-#EXTINF:-1 xui-id="139" tvg-id="" tvg-name="FASHION MIDNIGHT" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1f6bMKUWTDlWBL98SwEXdUcLS15OKQq6CzEzO7hiZdq1I.png" group-title="Indonesia",FASHION MIDNIGHT
+#EXTINF:-1 xui-id="139" tvg-id="" tvg-name="FASHION SECRET" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1f6bMKUWTDlWBL98SwEXdUcLS15OKQq6CzEzO7hiZdq1I.png" group-title="Indonesia",FASHION SECRET
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
 
 #EXTINF:-1 xui-id="10646" tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://www.dropbox.com/scl/fi/pr8o6g2k4qwiyjbvxi90v/FOODNETWORKOK.png?rlkey=1e2ofdck0g74wepdbwc2s8wsq&st=8a3zw24d&raw=1" group-title="Indonesia",FOOD NETWORK
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
@@ -374,7 +371,7 @@ http://125hvt.ddns.net:21585/tlc/index.m3u8
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/b1d58fabf2764d52aa1e130f4a45d2af/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="https://www.dropbox.com/scl/fi/58mfxsjockp182zpptqsj/EURONEWSOK.png?rlkey=wn47jj5fldlfy8qstx6eey6xy&st=yzyf63v8&raw=1" group-title="Indonesia",EURO NEWS
-http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVV1gFYIk8oo4ff5e27b1LAY
+https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RT ENGLISH" tvg-logo="https://www.dropbox.com/scl/fi/joy5bn6nfjfje59kkwpo5/RTOK.png?rlkey=0wzkl3o7mxnisgcvug30lm5wp&st=oygo4tx5&raw=1" group-title="Indonesia",RUSIA TODAY
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
