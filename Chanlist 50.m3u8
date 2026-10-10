@@ -91,7 +91,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist_w1188349826_b384000_s
 https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-id="JTV" tvg-url="" tvg-logo="https://www.dropbox.com/scl/fi/0o8suzmwsxbtgymwpymfc/JTVOK.png?rlkey=7ivdj3soqice1ydw42jqvqg2g&st=ancvmkuv&raw=1",JTV
-
+https://63b2dc7196c38.streamlock.net:1937/JTVSURABAYA/_definst_/myStream/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
