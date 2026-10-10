@@ -38,12 +38,7 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 https://tvratu.my.id/vid/index.mpd?id=205
 
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://www.dropbox.com/scl/fi/rugjddwqzoytkp1g843i5/SCTVOK.png?rlkey=luhn8lz297tgu4r2hxyv31ttt&st=ieuktleb&raw=1" group-title="Indonesia",SCTV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c/dash/U0NUVi1teQ/manifest.mpd?signature=M2M3MmFlNjVjZDNhZmQ2MmU1Nzk4YWU1OTdjOWI0YzM=&time=15260624470&device_id=AJou-0ORKEx4pFSrDypjSoShkeQH_nXS4p2iD4pMI9Gf
+http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/mgog491ksl8x0byj46t6x/TVONEOK.png?rlkey=b0fxkqccabka5gpgidn0yvhrj&st=498etu6e&raw=1" group-title="Indonesia", TV ONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -313,7 +308,7 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/cf0yahq0os7j10ne2nbct/MOONBUGOK.png?rlkey=p978t7i0q8eirp2wxj35sd331&st=jx1mntv0&dl=1 " group-title="Indonesia",MOONBUG KIDS
-http://hometv.biz.id:80/play/RWFEHg4Qb6yKboxIm_1CVfCv4jqB5HerZk5VVUI_5ag
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DreamWorks.id" tvg-name="Dreamworks HD" tvg-logo="https://www.dropbox.com/scl/fi/csjiyqtosguvq5lkjftgh/DREAMWORKSOK.png?rlkey=ksfc8kj4s964upuqy2lpkherp&st=8dq0rx5x&raw=1" group-title="Indonesia", DREAMWORKS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
