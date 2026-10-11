@@ -215,8 +215,12 @@ https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c
 #EXTINF:-1 tvg-id="" tvg-name="TvN MOVIES" tvg-logo="https://www.dropbox.com/scl/fi/4h9zc0jpt83afmilsgbzh/TVNMOVOK.png?rlkey=7qfrfd2btft0k29ju3xysn1od&st=y2aof405&raw=1" group-title="Indonesia",TvN MOVIES
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
 
-#EXTINF:-1 xui-id="91" tvg-id="" tvg-name="K PLUS" tvg-logo="https://www.dropbox.com/scl/fi/ych5yuqx9bkipbtbd70ze/K.png?rlkey=83oowkx20y5v6a56tflvetpuq&st=zl5a29zm&dl=1" group-title="Indonesia",K PLUS
-
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="K PLUS" tvg-logo="https://www.dropbox.com/scl/fi/ych5yuqx9bkipbtbd70ze/K.png?rlkey=83oowkx20y5v6a56tflvetpuq&st=zl5a29zm&dl=1" group-title="Indonesia",K PLUS
+http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34669
+###https://cdnbal1.indihometv.com/atm/DASH/kplus/kplus-avc1_2500000=7-3277707030000000.mpd
+###https://cdnbal1.indihometv.com/atm/DASH/kplus/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/0530anldf3fyoljs0py8q/KIX.png?rlkey=9frffda6vriyjesbl7lxfprve&st=ehqu2bcj&dl=1" group-title="Indonesia", KIX 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
@@ -380,6 +384,4 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2b
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="https://www.dropbox.com/scl/fi/y56k93a6rsvheurqdzyb0/FOXNEWSOK.png?rlkey=xdxs7qhgtn2hrgpz7prac7gq1&st=9eggcl93&raw=1" group-title="Indonesia",FOX NEWS
-http://138.121.15.230:9002/FOX-NEWS/index.m3u8
-
-#EXTM3U billed-msg="Selamat Menikmati | Sandy's Homestay"
+http://4.30.180.36:8420/foxnews/index.m3u8?token=test
