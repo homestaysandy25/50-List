@@ -6,12 +6,9 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=l
 https://op-flashcon-digdayahd-1.dens.tv/h/h313/S1/mnf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://www.dropbox.com/scl/fi/wwgzz9360qwsn03jzppdr/RCTIOK.png?rlkey=mrerst9dh1hkmumd3rujw98ya&st=lesdet12&raw=1" group-title="Indonesia",RCTI
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c/dash/UkNUSS1DaGFubmVs/manifest.mpd?signature=NGQzMGZkMWI1MmIyNGNkNGM3ZTNmODUyMDIxZTYyNWY=&time=15260624471&device_id=rOl863LFyCtAF6OG4TA-mku_isjZsHSRx59PvCYvoqFb
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -28,7 +25,9 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://www.dropbox.com/scl/fi/jnw285vdftto2r92zr9bz/ANTVOK.png?rlkey=rejk74hn5901c9ee7cz13a7j3&st=nynn7rja&raw=1" group-title="Indonesia",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://www.dropbox.com/scl/fi/p3ndd28vxcw4z3objyy9c/INDOSIAROK.png?rlkey=dykq5xjo35sdotxszr24lvzse&st=2gj9juhq&raw=1" group-title="Indonesia",INDOSIAR
