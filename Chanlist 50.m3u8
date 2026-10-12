@@ -31,10 +31,7 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://www.dropbox.com/scl/fi/p3ndd28vxcw4z3objyy9c/INDOSIAROK.png?rlkey=dykq5xjo35sdotxszr24lvzse&st=2gj9juhq&raw=1" group-title="Indonesia",INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=205
-https://tvratu.my.id/vid/index.mpd?id=205
+http://202.150.172.59/Indosiar/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://www.dropbox.com/scl/fi/rugjddwqzoytkp1g843i5/SCTVOK.png?rlkey=luhn8lz297tgu4r2hxyv31ttt&st=ieuktleb&raw=1" group-title="Indonesia",SCTV
 http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8
@@ -90,7 +87,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist_w1188349826_b384000_s
 https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-id="JTV" tvg-url="" tvg-logo="https://www.dropbox.com/scl/fi/0o8suzmwsxbtgymwpymfc/JTVOK.png?rlkey=7ivdj3soqice1ydw42jqvqg2g&st=ancvmkuv&raw=1",JTV
-https://63b2dc7196c38.streamlock.net:1937/JTVSURABAYA/_definst_/myStream/playlist.m3u8
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/index.mpd
 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -221,11 +218,7 @@ http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34669
 http://gvisiontv.channell.my.id/ch/ph/kix.php/.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/pv9s9yh7rcm6vaou5k741/CMOK.png?rlkey=6y1us1yc27neeyzzitb8gtvi3&st=bh0qer73&raw=1" group-title="Indonesia",CELESTIAL MOVIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=044
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
+http://goldenid.online:80/play/38ifGdTRCzSHegy1-Yigj3CSsg-vrMgegQqQO4Y3OyS2NfWgUCpemQzNDrTEFN-A
 
 #EXTINF:-1 xui-id="24290" tvg-id="" tvg-name="HITS NOW" tvg-logo="https://www.dropbox.com/scl/fi/1cpu7ov7q5bzg32r8w1u1/HITSNOWOK.png?rlkey=2krmyg2pr0h69j1pc00bzks9x&st=i3pn0v2g&raw=1" group-title="Indonesia",HITS NOW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
@@ -242,11 +235,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/73b9fdd0cd0e4570b482c92fa43ecda9/in
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
 #EXTINF:-1 xui-id="324" tvg-id="" tvg-name="SPO TV 2 ID" tvg-logo="https://www.dropbox.com/scl/fi/m61vo2rczrbmtac1vozl5/spotv2ok.png?rlkey=9n1e4wzrrdvra601hemyswam2&st=3p5vczzk&raw=1" group-title="Indonesia",SPO TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=120
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179216
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://www.dropbox.com/scl/fi/jowkshvnebubfkmqvbc5o/FIGHTSPORTOK.png?rlkey=1kgw637tucs8dm4q4x141jbdr&st=rmde23tb&raw=1" group-title="Indonesia",FIGHT SPORTS
 https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
@@ -311,11 +300,7 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
 
 #EXTINF:-1 tvg-id="FW774290" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/5kctez6p3udeyc1cn5um5/KIDS-TV.png?rlkey=1cgss9a5x0pqj83bcczpzr8po&st=ctyrrppe&dl=1" group-title="Indonesia",KIDS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=056
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
+https://051c33e45562495c9ddd9da786ba3e0c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/TCL_KidsTV/playlist.m3u8?ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.consent=0&ads.coppa=1&ads.custom=%7BCUSTOM%7D&ads.device_id=&ads.dnt=&ads.gdpr=0&ads.ifa_type=%7BIFA_TYPE%7D&ads.us_privacy=1YN-&ads.video_id=63fdf06b8588b176fd7913b2&ads.wurl_channel=1379&ads.wurl_name=KidsTV
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/qx91kule8d7c61dbgl4nq/ANIMALPLOK.png?rlkey=ny2ggep1pmzurw0cx0t3ynqsb&st=tkgp4a5v&raw=1" group-title="Indonesia",ANIMAL PLANET
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
