@@ -117,13 +117,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8?app_type=web&userid=lit
 https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://www.dropbox.com/scl/fi/q7pxoatxp31evvt0aunj7/HBOOK.png?rlkey=xgetp492q0hv38172gslpf2zv&st=yh0b4l4d&raw=1" group-title="Indonesia",HBO
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
+http://181.79.87.131:8000/play/a0ei/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO HITS" tvg-logo="https://www.dropbox.com/scl/fi/es7z2eld0ajw5tk8zrvtk/HBOHITSOK.png?rlkey=edfg6ydrglxwkvasrlzv5fwf1&st=d32c96bp&raw=1" group-title="Indonesia",HBO HITS
 #EXT-X-VERSION:4
