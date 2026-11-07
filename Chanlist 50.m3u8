@@ -152,14 +152,8 @@ http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07
 #EXTVLCOPT:http-reconnect=true
 http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07:43
 
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
-#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://www.dropbox.com/scl/fi/x2i255ea6xqx1hdgt98ou/CINEMAXOK.png?rlkey=zei6v00sesdg2x1e4umf48wte&st=90h3avxt&raw=1" group-title="Indonesia",CINEMAX
-https://filexott.uk:8443/live/ahsan627/62627288292/302227.ts
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w0r4orzXSjN0UAkjoBgiYsQ
 
 #EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://www.dropbox.com/scl/fi/h0w358wj8szyqy68zzmsg/STUDIOUNIVESOK.png?rlkey=y9rtl06a45apw0zgbgy8k9qwg&st=vp543c19&raw=1" group-title="Indonesia",STUDIO UNIVERSAL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -197,11 +191,9 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/in
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/gbtlkybseuorhobzaqa5s/ROCKENTOK.png?rlkey=794o4twjbi00pz19xdz7f6qya&st=bytqhi3m&raw=1" group-title="Indonesia", ROCK ENTERTAINMENT
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=92
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
+https://proxy-v.rctiplus.id/live/web/rockent/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
@@ -235,11 +227,9 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #EXTINF:0 tvg-logo="https://www.dropbox.com/scl/fi/a5nfs179fporjkfrp5kmt/BUDDY-STAROK.png?rlkey=rbcvb1o1d6rvei0xjpalxfp8a&st=x47f6rdr&raw=1" group-title="Indonesia",BUDDY STAR
 
 #EXTINF:-1 tvg-id="" tvg-name="THRILL" tvg-logo="https://www.dropbox.com/scl/fi/prp0r88qiq7oood3otnbx/THRILLOK.png?rlkey=fibvedfp57y5275uoo143aoe4&st=3phof1ox&raw=1" group-title="Indonesia",THRILL
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=41
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
+https://proxy-v.rctiplus.id/live/web/thrill/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TvN MOVIES" tvg-logo="https://www.dropbox.com/scl/fi/4h9zc0jpt83afmilsgbzh/TVNMOVOK.png?rlkey=7qfrfd2btft0k29ju3xysn1od&st=y2aof405&raw=1" group-title="Indonesia",TvN MOVIES
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -259,11 +249,9 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/in
 http://136.239.159.20:6610/001/2/ch00000090990000001263/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqszdaNqmegxz2VkIuTd%2B31ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001583&contentid=ch00000000000000001583&videoid=ch00000090990000001263&recommendtype=0&userid=1319115127597&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=D4NMMH3RZQXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/pv9s9yh7rcm6vaou5k741/CMOK.png?rlkey=6y1us1yc27neeyzzitb8gtvi3&st=bh0qer73&raw=1" group-title="Indonesia",CELESTIAL MOVIES
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=44
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
+https://proxy-v.rctiplus.id/live/web/celestialmovies/index.m3u8
 
 #EXTINF:-1 xui-id="24290" tvg-id="" tvg-name="HITS NOW" tvg-logo="https://www.dropbox.com/scl/fi/1cpu7ov7q5bzg32r8w1u1/HITSNOWOK.png?rlkey=2krmyg2pr0h69j1pc00bzks9x&st=i3pn0v2g&raw=1" group-title="Indonesia",HITS NOW
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -363,7 +351,8 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 https://lb.iptvnetwork.net/ls28/10015/playlist.m3u8
 
 #EXTINF:-1 xui-id="128" tvg-id="" tvg-name="HGTV" tvg-logo="hthttps://www.dropbox.com/scl/fi/l5fsc3b6zx8cdiy9a9amg/HGTVOK.png?rlkey=3rmzv1q59ljx6x1vqha6eyzwa&st=8j4wo2kc&raw=1" group-title="Indonesia",HGTV
-http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15972.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://mediapackage-sky-hgtv-source.fullscreen.nz/index_1.m3u8
 
 #EXTINF:-1 tvg-name=" tvg-logo="https://www.dropbox.com/scl/fi/u1rz9g3eulblr0r9yqc46/THIS-OLD-HOUSE.png?rlkey=sr2oawfyx1of4qts76441nklx&st=xn44q7qx&raw=1" group-logo="" group-title="Indonesia", THIS OLD HOUSE
 
