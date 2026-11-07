@@ -382,8 +382,4 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2b
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="https://www.dropbox.com/scl/fi/y56k93a6rsvheurqdzyb0/FOXNEWSOK.png?rlkey=xdxs7qhgtn2hrgpz7prac7gq1&st=9eggcl93&raw=1" group-title="Indonesia",FOX NEWS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=132
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/444f3d7b909d470f9f5a55c781a79728/index.mpd
+https://tvsen6.aynaott.com/foxnews/index.m3u8
